@@ -1,7 +1,4 @@
 
-
-    <title>Blood Bank Application</title>
-    <div class="container">
         <h1>Blood Bank Application</h1>
         
         <h2>Registration Page</h2>
@@ -34,4 +31,3 @@
         <p>
             Hospitals should be able to see the list of all the receivers who have requested a particular blood group from its blood bank.
         </p>
-    </div>
