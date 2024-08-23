@@ -1,6 +1,6 @@
 <h1>Blood Line Project</h1>
 <p>
-        <img src="" alt="Basic Home Page">
+        <img src="images/Screenshot (71).png" alt="Basic Home Page">
 </p>
 <p>The application should contain 2 types of users: Hospitals and Receivers</p>
 
